@@ -3,6 +3,6 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
-    "@animaliads/ani-link": "^1.0.0-dev.2"
+    "@animaliads/ani-link": "^1.0.0-dev.5"
   }
 }
